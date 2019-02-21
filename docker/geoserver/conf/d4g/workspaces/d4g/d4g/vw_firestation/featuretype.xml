@@ -1,0 +1,40 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-d484666:169115a4f3c:-7ffc</id>
+  <name>vw_firestation</name>
+  <nativeName>vw_firestation</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-d484666:169115a4f3c:-7ffe</id>
+  </namespace>
+  <title>vw_firestation</title>
+  <keywords>
+    <string>features</string>
+    <string>vw_firestation</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>15511.0</minx>
+    <maxx>281207.0</maxx>
+    <miny>306682.0</miny>
+    <maxy>622523.0</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>3.282658505682334</minx>
+    <maxx>7.293505048542153</maxx>
+    <miny>50.7333868308332</miny>
+    <maxy>53.5888568241819</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-d484666:169115a4f3c:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
